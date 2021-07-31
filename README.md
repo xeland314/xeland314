@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xeland314. You can also call me Christopher.
+- 👀 I’m interested in Python and C programming. 
+- 🌱 I’m currently learning OOP and LEX. 
