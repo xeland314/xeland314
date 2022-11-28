@@ -17,6 +17,6 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeland314&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false"></img>
-<br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeland314&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10t"></img>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeland314&theme=city_lights&hide_border=false&include_all_commits=false&count_private=true"></img>
+<br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeland314&theme=city_lights&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=10t"></img>
 </p>
