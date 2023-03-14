@@ -15,13 +15,6 @@
   <a href="https://discord.gg/AlexanderPila#5944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AlexanderPila#5944" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-</div>
-
 - 🔭 I’m currently working on [chat-analyzer](https://github.com/xeland314/chat-analyzer)
 - 🌱 I’m currently learning in **ONE: Oracle Next Education, Alura Latam**
 - 👨‍💻 All of my projects are available at [https://github.com/xeland314](https://github.com/xeland314)
