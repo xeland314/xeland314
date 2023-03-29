@@ -34,10 +34,10 @@
 <tbody>
   <tr>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,neovim,eclipse,regex,sqlite,md,git,bash&perline=3&theme=light" alt="Main tools" width="200" height="150"/>
+        <img src="https://skillicons.dev/icons?i=vscode,neovim,vim,eclipse,regex,sqlite,md,git,bash&perline=3&theme=light" alt="Main tools" width="200" height="150"/>
     </td>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=qt,django&perline=2&theme=light" alt="frameworks" width="100" height="40"/>
+        <img src="https://skillicons.dev/icons?i=qt,django,flutter&perline=2&theme=light" alt="frameworks" width="90" height="100"/>
     </td>
     <td align="center">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -69,13 +69,13 @@
 <tbody>
   <tr>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,matlab,go&perline=3&theme=light" alt="html,css,javascript,matlab,golang" width="150" height="90"/>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,matlab,go,bash&perline=3&theme=light" alt="html,css,javascript,matlab,golang" width="150" height="90"/>
     </td>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=c,java&theme=light" alt="c,java" width="100" height="40"/>
+        <img src="https://skillicons.dev/icons?i=dart,c&theme=light" alt="c,java" width="100" height="40"/>
     </td>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=python&theme=light" alt="python" width="50" height="40"/>
+        <img src="https://skillicons.dev/icons?i=python,java&theme=light" alt="python" width="100" height="40"/>
     </td>
   </tr>
 </tbody>
