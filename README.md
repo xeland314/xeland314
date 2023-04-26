@@ -82,6 +82,42 @@
 </table>
 
 <details>
+  <summary><b>Alura Badges - Challenges</b></summary><br/>
+  <table align="center">
+<thead>
+  <tr>
+    <th>Challenge #1</th>
+    <th>Challenge #2</th>
+    <th>Challenge #3</th>
+    <th>Challenge #4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th><a href="https://github.com/xeland314/encriptador-de-texto" target="_blank" rel="noreferrer">Encriptador</a></th>
+    <th><a href="https://github.com/xeland314/conversor-de-unidades" target="_blank" rel="noreferrer">Conversor de unidades</a></th>
+    <th><a href="" target="_blank" rel="noreferrer">Hotel Alura</a></th>
+    <th><a href="" target="_blank" rel="noreferrer">...</a></th>
+  </tr>
+  <tr>
+    <td align="center">
+        <img src="resources/challenge1.png" alt="challenge1" width="150" height="120"/>
+    </td>
+    <td align="center">
+        <img src="resources/challenge2.png" alt="challenge2" width="150" height="130"/>
+    </td>
+    <td align="center">
+        <img src="" alt="Empty" width="150" height="150"/>
+    </td>
+    <td align="center">
+        <img src="" alt="Empty" width="150" height="150"/>
+    </td>
+  </tr>
+</tbody>
+</table>
+</details>
+
+<details>
   <summary>&#9889 <b>📊 GitHub Stats</b></summary><br/>
   <div align="center">
   
