@@ -121,7 +121,6 @@
   <summary>&#9889 <b>📊 GitHub Stats</b></summary><br/>
   <div align="center">
   
-![stats](https://github-readme-stats.vercel.app/api?username=xeland314&theme=city_lights&hide_border=false&include_all_commits=false&count_private=true)
 ![rate](https://github-readme-streak-stats.herokuapp.com/?user=xeland314&hide_border=false&theme=city_lights)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeland314&theme=city_lights&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10t)
 
