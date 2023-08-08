@@ -122,7 +122,7 @@
   <div align="center">
   
 ![rate](https://github-readme-streak-stats.herokuapp.com/?user=xeland314&hide_border=false&theme=city_lights)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeland314&theme=city_lights&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10t)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeland314&theme=city_lights&include_all_commits=true&layout=compact&langs_count=10)
 
   </div>
 </details>
