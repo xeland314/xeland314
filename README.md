@@ -84,17 +84,19 @@ You can send me an email at **christopher.villamarin@protonmail.com**
   <div>
     <img src="https://skillicons.dev/icons?i=py,java,c,go,dart,js,ts,html,css&perline=10&theme=light" alt="Programming languages" width="400" height="100"/>
   </div>
-  <picture>
-    <source
-      srcset="https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&include_all_commits=true&layout=compact&langs_count=10&exclude_repo=github-readme-stats,Analizador-lexico,to-do-list-simple&theme=city_lights"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&include_all_commits=true&layout=compact&langs_count=10&exclude_repo=github-readme-stats,Analizador-lexico,to-do-list-simple,&theme=light"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&include_all_commits=true&layout=compact&langs_count=10&exclude_repo=github-readme-stats,Analizador-lexico,to-do-list-simple,&theme=light" />
-  </picture>
+  <div>
+    <picture>
+      <source
+        srcset="https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&layout=compact&langs_count=10&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site&include_all_commits=true&theme=city_lights&show_icons=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&layout=compact&langs_count=10&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site&include_all_commits=true&theme=default&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&layout=compact&langs_count=10&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site&include_all_commits=true&theme=default&show_icons=true" />
+    </picture>
+  </div>
 </div>
 
 ## 📊 GitHub Stats
@@ -113,13 +115,13 @@ You can send me an email at **christopher.villamarin@protonmail.com**
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api?username=xeland314&show_icons=true&theme=city_lights"
+      srcset="https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api?username=xeland314&show_icons=true&theme=city_lights&hide_border=false"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api?username=xeland314&show_icons=true&theme=light"
+      srcset="https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api?username=xeland314&show_icons=true&theme=default&hide_border=false"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api?username=xeland314&show_icons=true&theme=light" />
+    <img src="https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api?username=xeland314&show_icons=true&theme=default&hide_border=false" />
   </picture>
 </div>
