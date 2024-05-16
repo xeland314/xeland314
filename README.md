@@ -44,7 +44,7 @@ You can send me an email at **christopher.villamarin@protonmail.com**
       <img src="https://skillicons.dev/icons?i=vscode,neovim,eclipse&perline=1&theme=light" alt="Main tools" width="60" height="140"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=regex,obsidian,md,git,bash,docker,nginx,postman&perline=3&theme=light" alt="Main tools" width="160" height="160"/>
+      <img src="https://skillicons.dev/icons?i=regex,obsidian,md,git,bash,docker,nginx,postman&perline=2&theme=light" alt="Main tools" width="120" height="200"/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=sqlite,postgres,redis&perline=1&theme=light" alt="databases" width="60" height="140"/>
