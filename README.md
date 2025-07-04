@@ -19,7 +19,7 @@ Actualmente estoy enfocado en:
 Puedes visitar mi **[portafolio web](https://xeland314.github.io/)** o enviarme un email a **christopher.villamarin@protonmail.com**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christopher-villamar%c3%adn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Christopher Villamarín" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/christopher-villamar%c3%adn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Christopher Villamarin" height="30" width="40" /></a>
   <a href="https://discord.gg/AlexanderPila#5944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AlexanderPila#5944" height="30" width="40" /></a>
 </p>
 
