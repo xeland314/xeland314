@@ -1,56 +1,54 @@
 <!-- markdownlint-disable MD033 -->
 
-# Hi, I'm xeland314 (💻🐱)
+# Hola, soy Christopher Villamarin (xeland314 💻🐱)
 
 <div align="center">
   <a href="https://www.codewars.com/users/xeland314" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/xeland314/badges/large" alt="bash"/> </a>
 </div>
 <br>
-I'm a backend developer with frontend experience. I create APIs with Django and web applications with React or Flutter. I also have experience in building mobile apps with Flutter. I manage version control for my projects and provide thorough documentation. I deploy simple projects on AWS, Cloudflare and Render.
 
-## 📫 How to contact me?
-You can send me an email at **christopher.villamarin@protonmail.com**
+Soy un desarrollador Full Stack autodidacta, con una gran pasión y enfoque en el desarrollo **Backend**. Me especializo en la creación de APIs robustas y escalables, utilizando los ecosistemas de **Python** y **Go** para seleccionar la herramienta más adecuada para cada desafío. Esto me permite pasar de frameworks completos a soluciones más minimalistas según los requisitos del proyecto.
+
+Actualmente estoy enfocado en:
+- Perfeccionar la arquitectura de mis APIs.
+- Implementar sistemas de caché con **Redis** y colas de mensajes con **RabbitMQ**.
+- Explorar el protocolo **gRPC** para comunicación de alto rendimiento.
+- Mejorar mis técnicas de testing para garantizar la calidad del software.
+
+## 📫 ¿Cómo contactarme?
+Puedes visitar mi **[portafolio web](https://xeland314.github.io/)** o enviarme un email a **christopher.villamarin@protonmail.com**
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/christopher-villamar%c3%adn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christopher-villamar%c3%adn/" height="30" width="40" /></a>
-  <a href="https://fb.com/alexander.pila.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexander.pila.7" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/christopher-villamar%c3%adn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Christopher Villamarín" height="30" width="40" /></a>
   <a href="https://discord.gg/AlexanderPila#5944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AlexanderPila#5944" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Technologies and Tools
-
-- **Backend**: Django
-- **Frontend**: React, Flutter
-- **Mobile**: Flutter
-- **Version Control**: Git
-- **Deployment**: AWS, Cloudflare, Render
-
-### Tools
+## 🛠️ Tecnologías y herramientas
 
 <table align="center">
 <thead>
   <tr>
-    <th>IDEs</th>
-    <th>Tools</th>
-    <th>Databases</th>
-    <th>Frameworks</th>
-    <th>OS</th>
-    <th>Cloud</th>
+    <th align="center">IDEs</th>
+    <th align="center">Tools</th>
+    <th align="center">Databases</th>
+    <th align="center">Libraries</th>
+    <th align="center">OS</th>
+    <th align="center">Cloud</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,neovim,eclipse&perline=1&theme=light" alt="Main tools" width="60" height="140"/>
+      <img src="https://skillicons.dev/icons?i=vscode,vim,neovim,eclipse&perline=1&theme=light" alt="Main tools" width="60" height="180"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=regex,obsidian,md,git,bash,docker,nginx,postman&perline=2&theme=light" alt="Main tools" width="120" height="200"/>
+      <img src="https://skillicons.dev/icons?i=regex,obsidian,md,git,bash,docker,nginx,postman,rabbitmq,grpc&perline=2&theme=light" alt="Main tools" width="120" height="220"/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=sqlite,postgres,redis&perline=1&theme=light" alt="databases" width="60" height="140"/>
     </td>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=qt,django,flutter,react&perline=2&theme=light" alt="frameworks" width="90" height="120"/>
+        <img src="https://skillicons.dev/icons?i=qt,django,fastapi,flask,react,nextjs,astro,htmx,tailwindcss&perline=2&theme=light" alt="frameworks" width="120" height="220"/>
     </td>
     <td align="center">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -79,18 +77,18 @@ You can send me an email at **christopher.villamarin@protonmail.com**
 </tbody>
 </table>
 
-### Programming languages
+### Lenguajes de programación
 <div align="center">
   <div>
-    <img src="https://skillicons.dev/icons?i=py,java,c,go,dart,js,ts,html,css&perline=10&theme=light" alt="Programming languages" width="400" height="100"/>
+    <img src="https://skillicons.dev/icons?i=py,java,c,go,js,ts,html,css&perline=10&theme=light" alt="Programming languages" width="400" height="100"/>
   </div>
 
-[![languages](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=city_lights&include_all_commits=true&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site&layout=compact&langs_count=10&hide=cmake,c%2B%2B,swift#gh-dark-mode-only)](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=city_lights&include_all_commits=true&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site&layout=compact&langs_count=10&hide=cmake,c%2B%2B,swift#gh-dark-mode-only)
-[![languages](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=default&include_all_commits=true&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site&layout=compact&langs_count=10&hide=cmake,c%2B%2B,swift#gh-light-mode-only)](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=default&include_all_commits=true&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site&layout=compact&langs_count=10&hide=cmake,c%2B%2B,swift#gh-light-mode-only)
+[![languages](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=city_lights&include_all_commits=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site&layout=compact&langs_count=12&hide=cmake,c%2B%2B,swift#gh-dark-mode-only)](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=city_lights&include_all_commits=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site&layout=compact&langs_count=12&hide=cmake,c%2B%2B,swift#gh-dark-mode-only)
+[![languages](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=default&include_all_commits=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site&layout=compact&langs_count=12&hide=cmake,c%2B%2B,swift#gh-light-mode-only)](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=default&include_all_commits=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site&layout=compact&langs_count=12&hide=cmake,c%2B%2B,swift#gh-light-mode-only)
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 Estadísiticas de GitHub
 
 <div align="center">
   <picture>
