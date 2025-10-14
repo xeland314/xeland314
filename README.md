@@ -24,7 +24,7 @@ Actualmente estoy enfocado en:
 <summary><strong>See the English version</strong></summary>
 <br>
 
-I'm a self-taught Full Stack developer with a deep passion and focus on Backend development. I specialize in building robust and scalable APIs, using the **Python** and **Go** ecosystems to select the most suitable tool for each challenge. This allows me to switch from full-featured frameworks to more minimalist solutions depending on the project's requirements.
+I'm a self-taught full-stack developer with a deep passion and focus on Backend development. I specialize in building robust and scalable APIs, using the **Python** and **Go** ecosystems to select the most suitable tool for each challenge. This allows me to switch from full-featured frameworks to more minimalist solutions depending on the project's requirements.
 
 I'm currently focused on:
 - Refining my API architecture.
@@ -40,6 +40,7 @@ You can visit my **[web portfolio](https://xeland314.github.io/)** or send me an
 <p align="center">
   <a href="https://www.linkedin.com/in/christopher-villamar%c3%adn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Christopher Villamarin" height="30" width="40" /></a>
   <a href="https://discord.gg/AlexanderPila#5944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AlexanderPila#5944" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/xeland314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xeland314" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Technologies and Tools
@@ -67,7 +68,7 @@ You can visit my **[web portfolio](https://xeland314.github.io/)** or send me an
       <img src="https://skillicons.dev/icons?i=sqlite,postgres,redis&perline=1&theme=light" alt="databases" width="60" height="140"/>
     </td>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=qt,django,fastapi,flask,react,nextjs,astro,htmx,tailwindcss&perline=2&theme=light" alt="frameworks" width="120" height="220"/>
+        <img src="https://skillicons.dev/icons?i=qt,django,fastapi,flask,react,nextjs,astro,htmx,flutter,tailwindcss&perline=2&theme=light" alt="frameworks" width="120" height="220"/>
     </td>
     <td align="center">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -100,11 +101,11 @@ You can visit my **[web portfolio](https://xeland314.github.io/)** or send me an
 
 <div align="center">
   <div>
-    <img src="https://skillicons.dev/icons?i=py,java,c,go,js,ts,html,css&perline=10&theme=light" alt="Programming languages" width="400" height="100"/>
+    <img src="https://skillicons.dev/icons?i=py,dart,go,js,ts,html,css&perline=10&theme=light" alt="Programming languages" width="400" height="100"/>
   </div>
 
-[![languages](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=city_lights&include_all_commits=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site,paquete_en_mano,algolia-example,geo-spot-locator&layout=compact&langs_count=12&hide=cmake,c%2B%2B,swift,nix#gh-dark-mode-only)](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=city_lights&include_all_commits=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site,paquete_en_mano,algolia-example,geo-spot-locator&layout=compact&langs_count=12&hide=cmake,c%2B%2B,swift,nix#gh-dark-mode-only)
-[![languages](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=default&include_all_commits=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site,paquete_en_mano,algolia-example,geo-spot-locator&layout=compact&langs_count=12&hide=cmake,c%2B%2B,swift,nix#gh-light-mode-only)](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=default&include_all_commits=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site,paquete_en_mano,algolia-example,geo-spot-locator&layout=compact&langs_count=12&hide=cmake,c%2B%2B,swift,nix#gh-light-mode-only)
+[![languages](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=city_lights&include_all_commits=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site,paquete_en_mano,algolia-example,geo-spot-locator&layout=compact&langs_count=12&hide=jupyter%20notebook,cmake,c%2B%2B,swift,nix#gh-dark-mode-only)](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=city_lights&include_all_commits=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site,paquete_en_mano,algolia-example,geo-spot-locator&layout=compact&langs_count=12&hide=jupyter%20notebook,cmake,c%2B%2B,swift,nix#gh-dark-mode-only)
+[![languages](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=default&include_all_commits=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site,paquete_en_mano,algolia-example,geo-spot-locator&layout=compact&langs_count=12&hide=jupyter%20notebook,cmake,c%2B%2B,swift,nix#gh-light-mode-only)](https://github-readme-stats-git-main-xeland314s-projects.vercel.app/api/top-langs/?username=xeland314&theme=default&include_all_commits=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,to-do-list-simple,Analizador-lexico,servichef_site,paquete_en_mano,algolia-example,geo-spot-locator&layout=compact&langs_count=12&hide=jupyter%20notebook,cmake,c%2B%2B,swift,nix#gh-light-mode-only)
 
 </div>
 
