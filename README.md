@@ -1,21 +1,25 @@
 # Hi, I'm Christopher Villamarín
 
-Self-taught backend developer specializing in robust, scalable APIs with Python and Go.
+Self-taught backend developer specializing in APIs and AI-integrated systems using Python & Go.
 
-## Projects
+## 🚀 Key Projects
 
-### AI & Automation
-- **[codecraft-estimator](https://xeland314.github.io/en/projects/codecraft-estimator/)**: AI-powered project estimator using three-point estimation formula (optimistic + 4×realistic + pessimistic)/6
-- **[go-code-ai](https://github.com/xeland314/go-code-ai)**: Math chatbot with Python code validation in an isolated Docker environment
-- **[chat_analyzer_ui](https://xeland314.github.io/en/projects/chat-analyzer/)**: WhatsApp sentiment analysis with emoji frequency metrics (Flutter UI with Rust bindings)
+### 🧠 AI & Intelligent Systems
+- **[PostMetrics Pro](https://github.com/xeland314/post_metrics)**: Social media performance dashboard with real-time tracking and AI-powered strategic insights. Built with Go, React, and SQLite.
+- **[CodeCraft Estimator](https://codecraft-estimator.vercel.app/)**: AI-driven project estimator calculating time, cost, and risks using three-point estimation formulas and Gemini integration.
+- **[Chat Analyzer](https://xeland314.github.io/chat_analyzer_ui/)**: High-performance WhatsApp chat statistics and sentiment analysis tool built with Flutter and Rust. Processes 50k+ messages in under 10s locally.
 
-### APIs & Microservices
-- **[geocoding_api](https://xeland314.github.io/en/projects/geocoding-api/)**: Multi-provider reverse geocoding service with intelligent fallback and caching
-- **[urlshortener](https://xeland314.github.io/en/projects/urlshortener/)**: URL shortening service with analytics and custom aliases
+### 🌐 Backend & Infrastructure
+- **[Geocoding API](https://github.com/xeland314/geocoding-api)**: Multi-provider reverse geocoding wrapper (Nominatim, Here, Geoapify) with a dual-layer cache architecture (Redis + SQLite).
+- **[URL Shortener](https://github.com/xeland314/urlshortener)**: Feature-rich shortening service with password protection, private tokens, and asynchronous tasks via Celery/Redis.
+- **[Autocompleter - Ecuador](https://github.com/xeland314/autocompleter)**: Location search API for Ecuador using Nominatim and Reinforcement Learning to improve results based on user selection.
 
-### Algorithms & Data
-- **[simplex](https://xeland314.github.io/en/projects/simplex/)**: Linear programming solver for optimization problems
-- **[autocompleter](https://xeland314.github.io/en/projects/autocompleter/)**: Location search API with Nominatim, filtered for Ecuador
+### ⚙️ Low-Level & Languages
+- **[Lexical Analyzer](https://github.com/xeland314/Analizador-lexico)**: Error-recovering lexical scanner for numerical systems and mathematical operators using RegEx, implemented in C and Go.
+- **[Objects-in-C](https://github.com/xeland314/objects-in-C)**: Implementation of OOP concepts (encapsulation, inheritance) in ANSI-C, exploring the foundations of memory management.
+
+### Maths
+- **[Simplex Solver](https://github.com/xeland314/simplex)**: Comprehensive Linear Programming tool featuring custom DSLs (String-based/Pythonic) and a PySide6 GUI for advanced optimization.
 
 ---
 
