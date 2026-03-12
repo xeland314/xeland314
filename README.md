@@ -1,6 +1,6 @@
 # Hi, I'm Christopher Villamarín
 
-Self-taught backend developer specializing in APIs and AI-integrated systems using Python & Go.
+Self-taught backend developer specializing in APIs and AI-integrated systems.
 
 ## 🚀 Key Projects
 
@@ -15,7 +15,8 @@ Self-taught backend developer specializing in APIs and AI-integrated systems usi
 - **[Autocompleter - Ecuador](https://github.com/xeland314/autocompleter)**: Location search API for Ecuador using Nominatim and Reinforcement Learning to improve results based on user selection.
 
 ### ⚙️ Low-Level & Languages
-- **[Lexical Analyzer](https://github.com/xeland314/Analizador-lexico)**: Error-recovering lexical scanner for numerical systems and mathematical operators using RegEx, implemented in C and Go.
+- **[zigfetch](https://github.com/xeland314/zigfetch)**: Neofetch-style system info display compiled to WebAssembly (WASI) in Zig. The same binary runs natively on Linux and inside a browser terminal, reading OS, GPU, RAM, resolution and more from both environments.
+- **[Lexical Analyzer](https://github.com/xeland314/Analizador-lexico)**: Error-recovering lexical scanner for numerical systems and mathematical operators using RegEx, implemented in C (Lex & Bison) and Zig.
 - **[Objects-in-C](https://github.com/xeland314/objects-in-C)**: Implementation of OOP concepts (encapsulation, inheritance) in ANSI-C, exploring the foundations of memory management.
 
 ### Maths
