@@ -27,6 +27,7 @@ Self-taught backend developer specializing in APIs and AI-integrated systems.
 
 ### 🔢 Maths
 - **[Simplex Solver](https://github.com/xeland314/simplex)**: Comprehensive Linear Programming tool featuring custom DSLs (String-based/Pythonic) and a PySide6 GUI for advanced optimization.
+- **[StatLens](https://github.com/xeland314/statlens)**: Modern statistical distributions explorer with 13 probability models (Binomial, Normal, Poisson, Gamma, F, etc.), dynamic Matplotlib charts, LaTeX formula rendering, interval probability calculator, and Excel export. Built with Python 3.12 and PySide6.
 
 ---
 
