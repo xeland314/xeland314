@@ -15,6 +15,7 @@ Self-taught backend developer specializing in APIs and AI-integrated systems.
 - **[Autocompleter - Ecuador](https://github.com/xeland314/autocompleter)**: Location search API for Ecuador using Nominatim and Reinforcement Learning to improve results based on user selection.
 
 ### ⚙️ Low-Level & Languages
+- **[slides.c](https://github.com/xeland314/slides.c)**: High-performance, minimalist Markdown slide presenter built in C with X11, Cairo, and Pango. Features a pluggable architecture with functional ports in **Ada, Dart, Python, Zig, Lua, and Go**.
 - **[zigfetch](https://github.com/xeland314/zigfetch)**: Neofetch-style system info display compiled to WebAssembly (WASI) in Zig. The same binary runs natively on Linux and inside a browser terminal, reading OS, GPU, RAM, resolution, and more from both environments.
 - **[Lexical Analyzer](https://github.com/xeland314/Analizador-lexico)**: Error-recovering lexical scanner for numerical systems and mathematical operators using RegEx, implemented in C (Lex & Bison) and Zig.
 - **[Objects-in-C](https://github.com/xeland314/objects-in-C)**: Implementation of OOP concepts (encapsulation, inheritance) in ANSI-C, exploring the foundations of memory management.
