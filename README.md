@@ -1,6 +1,5 @@
-# Hi, I'm Christopher Villamarín
-
-Self-taught backend developer specializing in APIs and AI-integrated systems.
+# Hi, I'm Christopher Villamarín 😺
+Self-taught backend developer specializing in APIs and Linux.
 
 ## Key Projects
 
@@ -15,6 +14,7 @@ Self-taught backend developer specializing in APIs and AI-integrated systems.
 - **[slides.c](https://github.com/xeland314/slides.c)**: High-performance, minimalist Markdown slide presenter built in C with X11, Cairo, and Pango. Features a pluggable architecture with functional ports in **Ada, Dart, Python, Zig, Lua, and Go**.
 
 ### Backend & Infrastructure
+- **[Catsplash](https://github.com/xeland314/catsplash)**: Lightweight captive portal written in Go for managing Internet access on local networks (WiFi/Ethernet). Intercepts HTTP traffic, manages `iptables` rules dynamically, detects CNA on Android and iOS, and handles session expiry (absolute timeout and inactivity). Single binary with embedded HTML templates and SQLite-backed state. Fail-secure: firewall rules are cleaned up automatically on exit.
 - **[Geocoding API](https://github.com/xeland314/geocoding-api)**: Multi-provider reverse geocoding wrapper (Nominatim, Here, Geoapify) with a dual-layer cache architecture (Redis + SQLite).
 - **[URL Shortener](https://github.com/xeland314/urlshortener)**: Feature-rich shortening service with password protection, private tokens, and asynchronous tasks via Celery/Redis.
 - **[Autocompleter - Ecuador](https://github.com/xeland314/autocompleter)**: Location search API for Ecuador using Nominatim and Reinforcement Learning to improve results based on user selection.
