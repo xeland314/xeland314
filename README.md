@@ -24,7 +24,7 @@
 
 ### High-Performance & Systems
 - **[Chat Analyzer](https://xeland314.github.io/chat_analyzer_ui/)**: High-performance WhatsApp chat parser and sentiment analysis engine built with Flutter and Rust. Processes **50,000+ messages in under 10 seconds** entirely on the client side via low-overhead FFI.
-- **[slides.c](https://github.com/xeland314/slides.c)**: Minimalist Markdown slide presenter written in pure C utilizing X11, Cairo, and Pango. Features a pluggable micro-architecture with functional native ports implemented in **Ada, Dart, Python, Zig, Lua, and Go**.
+- **[slides.c](https://github.com/xeland314/slides.c)**: Minimalist Markdown slide presenter written in pure C utilizing X11, Cairo, and Pango. Features a pluggable micro-architecture. Currently, the only available port is in **Python** and is intended for testing purposes.
 
 ### Applied Mathematics & Data
 - **[Simplex Solver](https://github.com/xeland314/simplex)**: Comprehensive Linear Programming and optimization tool featuring custom domain-specific languages (String-based/Pythonic DSLs) and a PySide6 interface for advanced operations research.
