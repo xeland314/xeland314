@@ -7,38 +7,31 @@
 ## Skills
 
 ### What I actually do
-* **Automation & operations:** backups consistentes, monitoreo de discos/servicios, alertas, despliegues repetibles.
-* **Document processing & OCR:** escaneo, validación, extracción de texto (Tesseract/RapidOCR/Pix2Text) y generación de solucionarios.
-* **Scraping & data extraction:** automatización de portales, descarga y normalización de datos.
-* **APIs & services:** diseño e implementación de backends (Go/Python) con autenticación, colas y almacenamiento cifrado.
-* **Desktop & pixel-art tools:** apps de escritorio, temas y utilidades visuales.
-* **Analytics & reporting:** dashboards, métricas y exportación (Excel/PDF).
+* **Automation & operations:** consistent backups, disk/service monitoring, alerts, repeatable deployments.
+* **Document processing & OCR:** scanning, validation, text extraction (Tesseract/RapidOCR/Pix2Text) and solution generation.
+* **Scraping & data extraction:** portal automation, data download and normalization.
+* **APIs & services:** backend design and implementation (Go/Python) with auth, queues and encrypted storage.
+* **Desktop & pixel-art tools:** desktop apps, themes and visual utilities.
+* **Analytics & reporting:** dashboards, metrics and export (Excel/PDF).
 
 ---
 
-## Key Projects
+## Featured Projects
 
-### Backend & Infrastructure
-- **[Catsplash](https://github.com/xeland314/catsplash)**: Lightweight production-ready captive portal written in Go for managing network authentication. Intercepts HTTP traffic, manages dynamic Linux `iptables` firewall rules, detects CNA on Android/iOS, and handles absolute/inactivity session timeouts. Single fail-secure binary with embedded HTML templates and SQLite state.
-- **[Geocoding API](https://github.com/xeland314/geocoding_api)**: High-availability multi-provider reverse geocoding wrapper (Nominatim, Here, Geoapify) engineered with a dual-layer caching architecture (Redis + SQLite) to minimize external API latency.
-- **[URL Shortener](https://github.com/xeland314/urlshortener)**: Scalable URL shortening service featuring password protection, private tokens, and asynchronous background tasks powered by Celery and Redis.
-- **[Autocompleter - Ecuador](https://github.com/xeland314/autocompleter)**: Localized geocoding and location search API utilizing Nominatim and a custom Reinforcement Learning layer to optimize search relevance based on real-time user selections.
+<details open>
+<summary><b>Show featured projects</b></summary>
 
-### High-Performance & Systems
-- **[Chat Analyzer](https://xeland314.github.io/chat_analyzer_ui/)**: High-performance WhatsApp chat parser and sentiment analysis engine built with Flutter and Rust. Processes **50,000+ messages in under 10 seconds** entirely on the client side via low-overhead FFI.
-- **[slides.c](https://github.com/xeland314/slides.c)**: Minimalist Markdown slide presenter written in pure C utilizing X11, Cairo, and Pango. Features a pluggable micro-architecture. Currently, the only available port is in **Python** and is intended for testing purposes.
+<br>
 
-### Applied Mathematics & Data
-- **[Simplex Solver](https://github.com/xeland314/simplex)**: Comprehensive Linear Programming and optimization tool featuring custom domain-specific languages (String-based/Pythonic DSLs) and a PySide6 interface for advanced operations research.
-- **[StatLens](https://github.com/xeland314/statlens)**: Mathematical explorer covering **13 distinct probability distributions** (Binomial, Poisson, Gamma, etc.). Features dynamic Matplotlib charts, LaTeX formula rendering, interval calculators, and structured Excel data exports built on Python 3.12.
+| Project | What it does |
+|---|---|
+| **[slides.c](https://github.com/xeland314/slides.c)** | Minimalist Markdown slide presenter in C (Cairo/Pango). |
+| **[WindowsDiagnosis](https://github.com/xeland314/WindowsDiagnosis)** | Portable PowerShell HTML reports for support and LOPDP audits. |
+| **[easy_laptops](https://github.com/xeland314/easy_laptops)** | Laptop inventory and monitoring dashboard. |
+| **[cover-creator-cli](https://github.com/xeland314/cover-creator-cli)** | CLI to render covers/carousels (React + Puppeteer), pixel-art and C-Slides export. |
+| **[pixel-desk](https://github.com/xeland314/pixel-desk)** | 2.5D pixel-art desktop for Linux (X11): apps, kanban, monitor, calendar, rack, pixel cat. |
 
-### Web Tools & Utilities
-- **[Code to Video](https://xeland314.github.io/code-to-video)**: Browser-based rendering engine that generates animated videos of real-time source code typing for educational tutorials.
-- **[Code to Image](https://xeland314.github.io/code-to-img)**: Canvas-based developer utility that converts code snippets into syntax-highlighted, shareable images.
-- **[cover-creator-cli](https://github.com/xeland314/cover-creator-cli)**: CLI to render covers/carousels reusing Cover Creator components (React + Puppeteer), including pixel-art style and C-Slides export.
-- **[pixel-desk](https://github.com/xeland314/pixel-desk)**: 2.5D pixel-art desktop for Linux (X11): launches apps, kanban, system monitor, calendar and server rack, with a pixel cat.
-- **[WindowsDiagnosis](https://github.com/xeland314/WindowsDiagnosis)**: portable PowerShell HTML reports for support and LOPDP audits.
-- **[easy_laptops](https://github.com/xeland314/easy_laptops)**: laptop inventory/monitoring dashboard.
+</details>
 
 ---
 
