@@ -16,10 +16,40 @@
 
 ---
 
-## Projects
+## Featured
+
+| Project | What it is | Links |
+|---|---|---|
+| **pixel-desk** ![tech](https://skillicons.dev/icons?i=go,threejs,linux&theme=light) | My Linux desktop as a 2.5D pixel-art room (Go + WebKitGTK + three.js, no Electron). Each object opens an app; five rooms: kanban board, system monitor, calendar and a server rack. | [Repo](https://github.com/xeland314/pixel-desk) · [Page](https://xeland314.github.io/en/projects/pixel-desk/) |
+| **inventario** ![tech](https://skillicons.dev/icons?i=go,astro,react&theme=light) | Modular multi-site inventory system: Go backend with encrypted storage, SQLite/PostgreSQL, mobile-first Astro + React frontend with QR scanning. | [Repo](https://github.com/xeland314/inventario) · [Page](https://xeland314.github.io/en/projects/inventario/) |
+| **WindowsDiagnosis** ![tech](https://skillicons.dev/icons?i=powershell,windows&theme=light) | Six dependency-free PowerShell scripts that produce portable HTML reports: tech support, persistence hunting, LOPDP (Ecuador) audits and Office repair. | [Repo](https://github.com/xeland314/WindowsDiagnosis) · [Page](https://xeland314.github.io/en/projects/windows-diagnosis/) |
+| **slides.c** ![tech](https://skillicons.dev/icons?i=c,linux&theme=light) | Minimalist Markdown slide presenter in C (X11, Cairo, Pango) with color themes and image export. | [Repo](https://github.com/xeland314/slides.c) · [Page](https://xeland314.github.io/es/projects/slides-c/) |
+
+## More projects
 
 | Project | Description | Tech |
 |---|---|---|
+| [cover-creator-cli](https://github.com/xeland314/cover-creator-cli) | CLI to render covers and carousels (React + Puppeteer). | ![tech](https://skillicons.dev/icons?i=react,nodejs&theme=light) |
+| [social-media](https://github.com/xeland314/social-media) | One video and one carousel a day, with shared code and styles. | ![tech](https://skillicons.dev/icons?i=js,python&theme=light) |
+| [escaner_codigo_barras](https://github.com/xeland314/escaner_codigo_barras) | Real-time FastAPI app (managed with uv) to test and integrate a USB barcode scanner. | ![tech](https://skillicons.dev/icons?i=python,fastapi&theme=light) |
+| [Catsplash](https://github.com/xeland314/catsplash) | Captive portal in Go with iptables and SQLite. | ![tech](https://skillicons.dev/icons?i=go,sqlite&theme=light) |
+| [Geocoding API](https://github.com/xeland314/geocoding_api) | Multi-provider reverse geocoding with Redis + SQLite cache. | ![tech](https://skillicons.dev/icons?i=python,redis,sqlite&theme=light) |
+| [URL Shortener](https://github.com/xeland314/urlshortener) | URL shortener with passwords and Celery/Redis. | ![tech](https://skillicons.dev/icons?i=python,redis&theme=light) |
+| [Autocompleter - Ecuador](https://github.com/xeland314/autocompleter) | Location search with Nominatim and RL. | ![tech](https://skillicons.dev/icons?i=python&theme=light) |
+| [Chat Analyzer](https://xeland314.github.io/chat_analyzer_ui/) | WhatsApp chat parser in Flutter + Rust. | ![tech](https://skillicons.dev/icons?i=flutter,rust&theme=light) |
+| [Simplex Solver](https://github.com/xeland314/simplex) | Linear programming tool with DSL and PySide6. | ![tech](https://skillicons.dev/icons?i=python,qt&theme=light) |
+| [StatLens](https://github.com/xeland314/statlens) | Probability distributions explorer (PyQt5). | ![tech](https://skillicons.dev/icons?i=python,qt&theme=light) |
+| [Code to Video](https://xeland314.github.io/code-to-video/) | Animated code-typing videos, in the browser. | ![tech](https://skillicons.dev/icons?i=ts,react&theme=light) |
+| [Code to Image](https://xeland314.github.io/code-to-img/) | Turn code snippets into shareable images. | ![tech](https://skillicons.dev/icons?i=ts,react&theme=light) |
+
+<sub>Private work not linked here: laptop inventory dashboard, backups, SMART disk monitoring and document-processing tools.</sub>
+
+## Recent writing
+
+* [Anatomy of a DMARC record](https://xeland314.github.io/en/posts/dmarc-record-anatomy/): what each tag of a DMARC record does, field by field.
+* More posts at [xeland314.github.io](https://xeland314.github.io/).
+
+---|---|---|
 | [slides.c](https://github.com/xeland314/slides.c) | Minimalist Markdown slide presenter in C (Cairo/Pango). | ![tech](https://skillicons.dev/icons?i=c&theme=light) |
 | [WindowsDiagnosis](https://github.com/xeland314/WindowsDiagnosis) | Portable PowerShell HTML reports for support and LOPDP audits. | ![tech](https://skillicons.dev/icons?i=powershell,windows&theme=light) |
 | [easy_laptops](https://github.com/xeland314/easy_laptops) | Laptop inventory and monitoring dashboard. | ![tech](https://skillicons.dev/icons?i=python&theme=light) |
