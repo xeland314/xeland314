@@ -4,13 +4,15 @@
 
 </div>
 
-## Technical Skills
+## Skills
 
-### Core Expertise
-* **Backend Development:** Go, Python (FastAPI, Django), C, Rust, Zig, Shell Scripting (Bash).
-* **Infrastructure & Databases:** Linux (Debian/Systems Management), Docker, PostgreSQL, SQLite, Redis, Celery (Asynchronous Tasks), Network Security (`iptables`, Captive Portals).
-* **Frontend & Mobile:** Astro, React, Flutter, JavaScript, TypeScript, HTML5, CSS3.
-* **Mathematics & Analytics:** Linear Programming, Statistical Distributions, Reinforcement Learning, Graphs.
+### What I actually do
+* **Automation & operations:** backups consistentes, monitoreo de discos/servicios, alertas, despliegues repetibles.
+* **Document processing & OCR:** escaneo, validación, extracción de texto (Tesseract/RapidOCR/Pix2Text) y generación de solucionarios.
+* **Scraping & data extraction:** automatización de portales, descarga y normalización de datos.
+* **APIs & services:** diseño e implementación de backends (Go/Python) con autenticación, colas y almacenamiento cifrado.
+* **Desktop & pixel-art tools:** apps de escritorio, temas y utilidades visuales.
+* **Analytics & reporting:** dashboards, métricas y exportación (Excel/PDF).
 
 ---
 
@@ -35,6 +37,8 @@
 - **[Code to Image](https://xeland314.github.io/code-to-img)**: Canvas-based developer utility that converts code snippets into syntax-highlighted, shareable images.
 - **[cover-creator-cli](https://github.com/xeland314/cover-creator-cli)**: CLI to render covers/carousels reusing Cover Creator components (React + Puppeteer), including pixel-art style and C-Slides export.
 - **[pixel-desk](https://github.com/xeland314/pixel-desk)**: 2.5D pixel-art desktop for Linux (X11): launches apps, kanban, system monitor, calendar and server rack, with a pixel cat.
+- **[WindowsDiagnosis](https://github.com/xeland314/WindowsDiagnosis)**: portable PowerShell HTML reports for support and LOPDP audits.
+- **[easy_laptops](https://github.com/xeland314/easy_laptops)**: laptop inventory/monitoring dashboard.
 
 ---
 
