@@ -33,6 +33,33 @@
 
 </details>
 
+
+<details>
+<summary><b>Other projects</b></summary>
+
+<br>
+
+### Backend & Infrastructure
+- **[Catsplash](https://github.com/xeland314/catsplash)**: captive portal in Go with iptables and SQLite.
+- **[Geocoding API](https://github.com/xeland314/geocoding_api)**: multi-provider reverse geocoding with Redis + SQLite cache.
+- **[URL Shortener](https://github.com/xeland314/urlshortener)**: URL shortener with passwords and Celery/Redis.
+- **[Autocompleter - Ecuador](https://github.com/xeland314/autocompleter)**: location search with Nominatim and RL.
+
+### High-Performance & Systems
+- **[Chat Analyzer](https://xeland314.github.io/chat_analyzer_ui/)**: WhatsApp chat parser in Flutter + Rust.
+
+### Applied Mathematics & Data
+- **[Simplex Solver](https://github.com/xeland314/simplex)**: linear programming tool with DSL and PySide6.
+- **[StatLens](https://github.com/xeland314/statlens)**: probability distributions explorer with charts and Excel export.
+
+### Web Tools & Utilities
+- **[Code to Video](https://xeland314.github.io/code-to-video)**: animated code typing videos.
+- **[Code to Image](https://xeland314.github.io/code-to-img)**: code to image converter.
+
+</details>
+
+
+
 ---
 
 <div align="center">
