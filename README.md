@@ -49,23 +49,6 @@
 * [Anatomy of a DMARC record](https://xeland314.github.io/en/posts/dmarc-record-anatomy/): what each tag of a DMARC record does, field by field.
 * More posts at [xeland314.github.io](https://xeland314.github.io/).
 
----|---|---|
-| [slides.c](https://github.com/xeland314/slides.c) | Minimalist Markdown slide presenter in C (Cairo/Pango). | ![tech](https://skillicons.dev/icons?i=c&theme=light) |
-| [WindowsDiagnosis](https://github.com/xeland314/WindowsDiagnosis) | Portable PowerShell HTML reports for support and LOPDP audits. | ![tech](https://skillicons.dev/icons?i=powershell,windows&theme=light) |
-| [easy_laptops](https://github.com/xeland314/easy_laptops) | Laptop inventory and monitoring dashboard. | ![tech](https://skillicons.dev/icons?i=python&theme=light) |
-| [cover-creator-cli](https://github.com/xeland314/cover-creator-cli) | CLI to render covers/carousels (React + Puppeteer). | ![tech](https://skillicons.dev/icons?i=react,nodejs&theme=light) |
-| [pixel-desk](https://github.com/xeland314/pixel-desk) | 2.5D pixel-art desktop for Linux (X11). | ![tech](https://skillicons.dev/icons?i=go&theme=light) |
-| [inventario](https://github.com/xeland314/inventario) | Modular multi-site inventory system (Go + Astro/React). | ![tech](https://skillicons.dev/icons?i=go,astro,react&theme=light) |
-| [Catsplash](https://github.com/xeland314/catsplash) | Captive portal in Go with iptables and SQLite. | ![tech](https://skillicons.dev/icons?i=go,sqlite&theme=light) |
-| [Geocoding API](https://github.com/xeland314/geocoding_api) | Multi-provider reverse geocoding with Redis + SQLite cache. | ![tech](https://skillicons.dev/icons?i=python,redis,sqlite&theme=light) |
-| [URL Shortener](https://github.com/xeland314/urlshortener) | URL shortener with passwords and Celery/Redis. | ![tech](https://skillicons.dev/icons?i=python,redis&theme=light) |
-| [Autocompleter - Ecuador](https://github.com/xeland314/autocompleter) | Location search with Nominatim and RL. | ![tech](https://skillicons.dev/icons?i=python&theme=light) |
-| [Chat Analyzer](https://xeland314.github.io/chat_analyzer_ui/) | WhatsApp chat parser in Flutter + Rust. | ![tech](https://skillicons.dev/icons?i=flutter,rust&theme=light) |
-| [Simplex Solver](https://github.com/xeland314/simplex) | Linear programming tool with DSL and PySide6. | ![tech](https://skillicons.dev/icons?i=python&theme=light) |
-| [StatLens](https://github.com/xeland314/statlens) | Probability distributions explorer. | ![tech](https://skillicons.dev/icons?i=python&theme=light) |
-| [Code to Video](https://xeland314.github.io/code-to-video/) | Animated code typing videos. | ![tech](https://skillicons.dev/icons?i=ts&theme=light) |
-| [Code to Image](https://xeland314.github.io/code-to-img/) | Code to image converter. | ![tech](https://skillicons.dev/icons?i=ts&theme=light) |
-
 ---
 
 <div align="center">
