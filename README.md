@@ -42,8 +42,6 @@
 | [Code to Video](https://xeland314.github.io/code-to-video/) | Animated code-typing videos, in the browser. | ![tech](https://skillicons.dev/icons?i=ts,react&theme=light) |
 | [Code to Image](https://xeland314.github.io/code-to-img/) | Turn code snippets into shareable images. | ![tech](https://skillicons.dev/icons?i=ts,react&theme=light) |
 
-<sub>Private work not linked here: laptop inventory dashboard, backups, SMART disk monitoring and document-processing tools.</sub>
-
 ## Recent writing
 
 * [Anatomy of a DMARC record](https://xeland314.github.io/en/posts/dmarc-record-anatomy/): what each tag of a DMARC record does, field by field.
